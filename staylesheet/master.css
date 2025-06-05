@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base{
+    .row{
+        @apply flex flex-wrap
+    }
+}
+
+@layer components{
+    .btnblue{
+        @apply flex w-[150px] h-[50px] justify-center items-center bg-blue-800 text-white rounded-[30px]
+    }
+}
+@layer utilities{
+    .bt{
+        @apply border border-2 border-amber-50
+    }
+
+}
