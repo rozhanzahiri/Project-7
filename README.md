@@ -1,5 +1,5 @@
 # Project-7
-- [Demo Project](https://rozhanzahiri.github.io/Project-6/)
+- [Demo Project](https://rozhanzahiri.github.io/Project-7/)
 
 - Developed by Rozhan Zahiri
 
